@@ -34,7 +34,7 @@ git clone https://github.com/R3DHULK/subdomain-finder-in-perl
 cd subdomain-finder-in-perl
 
 # To Run This Tool
-perl subdomain-finder.pl
+perl subdomain-scanner.pl
 
 ```
 
